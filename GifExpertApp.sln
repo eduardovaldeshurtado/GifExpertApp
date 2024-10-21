@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "gifexpertapp", "GifExpertApp\gifexpertapp.esproj", "{31224825-1FD0-4FDB-810B-FB72073BE614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31224825-1FD0-4FDB-810B-FB72073BE614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31224825-1FD0-4FDB-810B-FB72073BE614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31224825-1FD0-4FDB-810B-FB72073BE614}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{31224825-1FD0-4FDB-810B-FB72073BE614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31224825-1FD0-4FDB-810B-FB72073BE614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31224825-1FD0-4FDB-810B-FB72073BE614}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD01833A-0587-47ED-9AA1-06B8402B4767}
+	EndGlobalSection
+EndGlobal
