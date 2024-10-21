@@ -6,7 +6,7 @@ import { useFetchGifts } from '../hooks/useFetchGifs';
 
 export const GifGrid = ({ category }) => {
 
-    const { images, isLoading } = useFetchGifts(category);
+    const { images, isLoading } = useFetchGifts(category); //test
 
 
     return (
